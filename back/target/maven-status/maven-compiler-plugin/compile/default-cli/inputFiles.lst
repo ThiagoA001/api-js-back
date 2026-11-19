@@ -1,0 +1,10 @@
+D:\ultimo baile darzo y alvez\students-api\back\src\main\java\com\example\studentsapi\config\CorsConfig.java
+D:\ultimo baile darzo y alvez\students-api\back\src\main\java\com\example\studentsapi\controller\StudentController.java
+D:\ultimo baile darzo y alvez\students-api\back\src\main\java\com\example\studentsapi\dto\StudentDto.java
+D:\ultimo baile darzo y alvez\students-api\back\src\main\java\com\example\studentsapi\entity\Student.java
+D:\ultimo baile darzo y alvez\students-api\back\src\main\java\com\example\studentsapi\exception\GlobalExceptionHandler.java
+D:\ultimo baile darzo y alvez\students-api\back\src\main\java\com\example\studentsapi\exception\ResourceNotFoundException.java
+D:\ultimo baile darzo y alvez\students-api\back\src\main\java\com\example\studentsapi\repository\StudentRepository.java
+D:\ultimo baile darzo y alvez\students-api\back\src\main\java\com\example\studentsapi\service\StudentService.java
+D:\ultimo baile darzo y alvez\students-api\back\src\main\java\com\example\studentsapi\service\StudentServiceImpl.java
+D:\ultimo baile darzo y alvez\students-api\back\src\main\java\com\example\studentsapi\StudentsApiApplication.java
